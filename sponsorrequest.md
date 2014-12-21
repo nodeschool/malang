@@ -2,7 +2,7 @@ Dear [company] team,
 
 I am currently organizing a Node.js beginners event on [date-time].
 With [number-of-mentors] Node mentors, we are going to help about [number-of-attendees] attendees to
-learn programming with Node through a set of [self-paced](nodeschool.io)
+learn programming with Node through a set of [self-paced](http://nodeschool.io/)
 challenges. It's a nice proven concept and has already been held in
 several cities around the world.
 
