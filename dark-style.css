@@ -230,3 +230,12 @@ a:hover{
     margin-left: 50px;
   }
 }
+
+.black-section{
+  background-color: #303030;
+  color:white;
+}
+
+.black-section h2{
+  margin-bottom: 80px;
+}
