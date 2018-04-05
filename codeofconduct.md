@@ -12,7 +12,6 @@ Contact | Khalilur Rahman
 --- | ---
 Twitter | [@khalrhm](https://twitter.com/khalrhm)
 Email | khal.rahman[at]gmail.com
-Phone | +6585009692
 
 ## The Quick Version
 
